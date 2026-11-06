@@ -63,6 +63,19 @@ QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated
 | [**bash-toolbox**](https://github.com/MichaelYnoa/bash-toolbox) | DevOps scripts for log analysis, health checks, backup rotation and deploys | Bash · Linux |
 | [**coding-challenges**](https://github.com/MichaelYnoa/coding-challenges) | Algorithm practice, each with problem, approach and test cases | Python |
 
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelYnoa&theme=github_dark" alt="Profile details" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelYnoa&theme=github_dark" alt="Stats" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelYnoa&theme=github_dark" alt="Most commit language" height="160">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MichaelYnoa&theme=github-dark-blue&hide_border=true" alt="Contribution streak">
+</p>
+
 ## 💼 Experience
 
 - **QA Test Analyst II** — Change Financial *(fintech, 2023 – present)*
