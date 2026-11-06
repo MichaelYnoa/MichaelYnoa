@@ -24,7 +24,7 @@ QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662CB8?style=flat-square&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![BDD Gherkin](https://img.shields.io/badge/BDD%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![BDD / Gherkin](https://img.shields.io/badge/BDD_Gherkin-2E7D32?style=flat-square)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20%2B%20Zephyr-0052CC?style=flat-square&logo=jira&logoColor=white)
 
