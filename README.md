@@ -8,10 +8,9 @@
 
 ---
 
-QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated medical devices** (Edwards Lifesciences) and **fintech** (Change Financial).
+QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated medical devices** and **fintech**.
 
 - 🧪 Built a **Playwright + Python + Pytest** framework from scratch that runs in production CI for E2E, regression and smoke testing
-- 💳 Led simulation testing for payment systems — **25% fewer production bugs** over a 6-month baseline
 - 🤖 Bringing AI into QA workflows with **MCP integrations** and **RAG** tooling
 - ⚙️ Infrastructure-aware: Docker, GitHub Actions, Kubernetes, Terraform
 - 📚 Currently: ISTQB Foundation Level (CTFL)
@@ -20,12 +19,12 @@ QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated
 
 **Testing & automation**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-662CB8?style=flat-square&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cucumber](https://img.shields.io/badge/BDD%20%2F%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![BDD Gherkin](https://img.shields.io/badge/BDD%20Gherkin-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20%2B%20Zephyr-0052CC?style=flat-square&logo=jira&logoColor=white)
 
@@ -42,7 +41,7 @@ QA Engineer & SDET with **5+ years** building test automation in **FDA-regulated
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
